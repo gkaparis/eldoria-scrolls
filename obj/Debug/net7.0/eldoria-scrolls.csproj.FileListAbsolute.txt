@@ -1,0 +1,15 @@
+/workspaces/eldoria-scrolls/bin/Debug/net7.0/eldoria-scrolls
+/workspaces/eldoria-scrolls/bin/Debug/net7.0/eldoria-scrolls.deps.json
+/workspaces/eldoria-scrolls/bin/Debug/net7.0/eldoria-scrolls.runtimeconfig.json
+/workspaces/eldoria-scrolls/bin/Debug/net7.0/eldoria-scrolls.dll
+/workspaces/eldoria-scrolls/bin/Debug/net7.0/eldoria-scrolls.pdb
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/eldoria-scrolls.csproj.AssemblyReference.cache
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/eldoria-scrolls.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/eldoria-scrolls.AssemblyInfoInputs.cache
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/eldoria-scrolls.AssemblyInfo.cs
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/eldoria-scrolls.csproj.CoreCompileInputs.cache
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/eldoria-scrolls.dll
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/refint/eldoria-scrolls.dll
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/eldoria-scrolls.pdb
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/eldoria-scrolls.genruntimeconfig.cache
+/workspaces/eldoria-scrolls/obj/Debug/net7.0/ref/eldoria-scrolls.dll
