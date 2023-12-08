@@ -1,0 +1,12 @@
+   {
+       // Name this configuration
+       "name": "Codespace for tic-tac-toe!",
+       "customizations": {
+           "vscode": {
+               "extensions": [
+                   "GitHub.copilot",
+                   "ms-dotnettools.csharp"
+               ]
+           }
+       }
+   }
